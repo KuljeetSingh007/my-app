@@ -1,0 +1,14 @@
+.containerStyle {
+    width: 100%;
+    height: 5px;
+    border: 1px solid whitesmoke;
+    overflow: hidden;
+  }
+  
+  .fillerStyle {
+    height: 100%;
+    background-color: whitesmoke;
+    transition: width 2s ease-out;
+    width: 0%; /* initial width */
+  }
+  
